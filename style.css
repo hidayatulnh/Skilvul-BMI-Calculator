@@ -4,6 +4,11 @@ body{
     background: whitesmoke;
 }
 
+h1{
+ text-align:center;
+ color : black;
+}
+
 p{
     color: black;
 }
